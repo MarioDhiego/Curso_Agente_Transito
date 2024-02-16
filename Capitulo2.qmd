@@ -1,0 +1,208 @@
+
+
+```{=html}
+<style>
+body{text-align: justify}
+</style>
+```
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+# **Competências e Habilidades**
+## **Quem é o Agente de Trânsito?**
+
+* É um Profissional que age em função da Lei;
+* Promove Atitudes Positivas no Trânsito;
+* É um **Cidadão Civil** credenciado como **Agente da Autoridade de Trânsito**;
+* Desempenha duas Atividades:
+  - **Fiscalização**: Cumprimento das Normas;
+  - **Operação**: Monitoramento da Via;
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+## **Requesitos**
+
+* É necessário ter vínculo com a Administração Pública que o legitime, inciso 4º, artigo 280/CTB;
+* É necessário ser **servidor civil**, **Estatutário**, **Celetista ou Policial Militar** designado pela Autoridade de Trânsito (**Diretor do DETRAN**);
+* A investidura depende de aprovação prévia em concurso público (CF, artigo 37, inciso II). 
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+## **CTB - Art. 280**
+Ocorrendo infração prevista na legislação de trânsito, lavrar-se-á auto de infração, do qual constará:
+
+[..]
+
+**§ 4º** O agente da autoridade de trânsito competente para lavrar o auto de infração poderá ser servidor civil, estatutário ou celetista ou, ainda, policial militar designado pela autoridade de trânsito com jurisdição sobre a via no âmbito de sua competência.
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+## **Objetivos da Função**
+
+* É garantir Segurança e Fluidez ao Tráfego;
+* Priorizar a Orientação aos Usuários das vias;
+* Contribuir para uma Mudança de Atitudes dos cidadãos;
+* Ser um Disseminador e Multiplicador de Atitudes seguras no Trânsito;
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+
+## **Competências do Agente de Trânsito**
+### **Competências Primárias**
+
+* Efetuar a fiscalização por infrações de:
+  - Circulação;
+  - Estacionamento;
+  - Parada;
+  - Salve em situação de Convênio de Reciprocidade;
+
+### **Competências Secundárias**
+
+* Ser o elo entre a Comunidade e o poder público;
+* Ser a linha de frente na segurança viária;
+* Ser um receptor das aspirações da Comunidade;
+* Ter uma Postura adequada, imagem positiva, aparência pessoal;
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+## **Habilidades do Agente de Trânsito**
+
+Para Desempenhar o constante atendimento e a orientação eficaz aos usuários, é necessário estabelecer habilidades, consideradas fundamentais para o exercício da função. 
+
+
+É necessário desenvolver ou aperfeiçoar as seguintes habilidades:
+
+* Uso do Conhecimento e do Controle Emocional;
+* Respeito e Assertividade são Essenciais;
+* Proatividade e Eficácia nas Ações;
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+### **Habilidade 1**
+
+* Uso do Conhecimento e do Controle Emocional;
+  - Situações Irregulares dos Condutores;
+  - Reações Diferenciadas que podem gerar Conflitos;
+  - Comprometimento da Segurança Física;
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+### **Habilidade 2**
+
+* Respeito a Assertividade são Essenciais;
+  - Influenciar o Hábito das pessoas;
+  - Dependendo pode gerar uma penalidade;
+  - Sentimento de Constrangimento;
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+### **Habilidade 3**
+
+* Proatividade e Eficácia nas Ações;
+  - Identificar obstruções não autorizadas na via;  
+  - Situações de Emergências;
+  - Penalização;
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+## **Formas de Contato na Via**
+
+* Relação **Agente** versus **Usuários**;
+  - Contato **Visual** (que acontece no caso de sinalização de trânsito e do olhar do agente ao usuário);
+  - Contato **Escrito** (no caso de advertência ou autuação);
+  - Contato **Verbal** (situação de abordagem);
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## **Relacionamento do Agente**
+
+1 O Agente de Trânsito deve;
+  - Transmitir Confiança aos usuários;
+  - Promover Boas Ações;
+  - Usar Empatia;
+  - Ter Boa Comunicação;
+  - Postura Profissional Exemplar;
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## **Poder x Autoridade**
+### **Poder**
+
+* **Poder**: é a faculdade de forçar ou coagir alguém a fazer a sua vontade, por causa da sua posição ou força, mesmo que a pessoa preferisse não o fazer (HUNTER, 2004).
+
+
+### **Autoridade**
+
+* **Autoridade**: é a habilidade de levar pessoas a fazerem de boa vontade o que vc quer por causa de sua influência pessoal. È levar as pessoas a atuar com boa vontade porque você pediu.
+
+
+### **Exemplo1**
+
+* **Autoridade**: um gestor, por exemplo, pode estar em um cargo de poder e **Não Ter Autoridade** sobre as pessoas;
+* O inverso também é verdadeiro: uma pessoa pode **Ter Autoridade Sem** estar ocupando posição de poder
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+
+
+
+

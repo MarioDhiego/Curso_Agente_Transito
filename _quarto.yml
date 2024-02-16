@@ -1,0 +1,56 @@
+# Preâmbulo Geral
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "**Curso de Formação Agente de Trânsito**"
+  page-footer:
+    left: |
+      Was Written by (**VALENTE, M.D.R - 2024**).
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  subtitle: "**Disciplina: Papel Educador do Agente**"
+  author:
+    name: Mário Diego Rocha Valente
+    orcid: 0000-0001-7262-3336
+    corresponding: true
+    affiliation:
+        name: DETRAN-PA
+        url: mariovalente@detran.pa.gov.br
+  date: "19/02/2024"
+  repo-url: https://github.com/MarioDhiego
+  repo-subdir: book
+  repo-branch: main           # master
+  repo-actions: [edit, issue, source]
+  sharing: [twitter, linkedin]
+  downloads: [pdf, docx]
+  page-navigation: true
+  reader-mode: true
+  sidebar:
+        search: true
+  chapters:
+    - index.qmd
+    - Introducao.qmd
+    - Capitulo2.qmd
+    - Capitulo3.qmd
+    - Referencias.qmd
+bibliography: references.bib
+format:
+  html:
+    toc-title: Índice
+    toc-location: right
+    number-sections: true
+    theme:
+      light: cosmo
+      dark:  superhero
+    code-fold: true
+    code-tools: true
+    code-link: true
+abstract: |
+  Dispõe sobre o Curso de Agente de Trânsito para profissionais que executem as atividades de fiscalização, operação, policiamento ostensivo de trânsito ou patrulhamento nos órgãos integrantes do Sistema Nacional de Trânsito (SNT).
+keywords: |
+  - Portaria nº966
+  - SENATRAN
+  - Curso de Agente
+
