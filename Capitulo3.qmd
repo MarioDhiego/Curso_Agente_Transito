@@ -28,8 +28,6 @@ body{text-align: justify}
 :::
 
 
-
-
 ## **O Que é Educação Para o Trânsito**
 ### **Lei de Diretrizes e Bases da Educação**
 
@@ -77,12 +75,12 @@ A educação para o trânsito é direito de todos e constitui dever prioritário
 
 ### **A Educação Para o Trânsito**
 
-* Tem como foco o ser humano, e trabalha a possibilidade de mudança de valores, comportamentos e atitudes;
-* Pode envolver conhecimentos ambientais, de uso do solo, engenharia de tráfego e prediais de emergência;
-* È considerada eficaz na medida em que a população alvo se conscientiza do seu papel como protagonista no trânsito e modifica comportamentos indevidos.
-* A educação para o trânsito deve enfatizar a responsabilidade da sociedade em busca de segurança e bem-estar.
-* A educação para o trânsito ultrapassa a mera transmissão de informações.
-* A educação para o trânsito não se limita a eventos esporádicos e permite ações coordenadas
+- Tem como foco o ser humano, e trabalha a possibilidade de mudança de valores, comportamentos e atitudes;
+- Pode envolver conhecimentos ambientais, de uso do solo, engenharia de tráfego e prediais de emergência;
+- È considerada eficaz na medida em que a população alvo se conscientiza do seu papel como protagonista no trânsito e modifica comportamentos indevidos.
+- A educação para o trânsito deve enfatizar a responsabilidade da sociedade em busca de segurança e bem-estar.
+- A educação para o trânsito ultrapassa a mera transmissão de informações.
+- A educação para o trânsito não se limita a eventos esporádicos e permite ações coordenadas
 
 Uma Educação para o Trânsito pautada na ética e na cidadania forma pessoas para desenvolver papel transformador, (re)pensar atitudes, perceber situações de (in)segurança.
 
