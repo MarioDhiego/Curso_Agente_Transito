@@ -1,100 +1,137 @@
-
-
 ```{=html}
 <style>
 body{text-align: justify}
 </style>
 ```
 
-
-::: progress
+:::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
-:::
-
-
+::::
 
 # **Exercendo o Papel Educador**
+
 ## **Introdução**
 
-* Mesmo impondo as sanções previstas no CTB, o Agente não pode se eximir do papel de orientar o condutor.
-* Mais do que confrontá-lo com as informações sobre as penalidades a serem aplicadas, deve primar, naquele momento, pela demonstração dos riscos ao desobedecer o que prevê a norma legal.
-* Usando uma linguagem cortês e, ao mesmo tempo, assertiva, deve expor os riscos e apresentar a melhor conduta, de maneira que se evitem os riscos de sinistros e tragédias, além das punições previstas no ordenamento legal.
+-   Mesmo impondo as sanções previstas no CTB, o Agente não pode se eximir do papel de orientar o condutor.
+-   Mais do que confrontá-lo com as informações sobre as penalidades a serem aplicadas, deve primar, naquele momento, pela demonstração dos riscos ao desobedecer o que prevê a norma legal.
+-   Usando uma linguagem cortês e, ao mesmo tempo, assertiva, deve expor os riscos e apresentar a melhor conduta, de maneira que se evitem os riscos de sinistros e tragédias, além das punições previstas no ordenamento legal.
 
-
-::: progress
+:::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
-:::
-
+::::
 
 ## **O Que é Educação Para o Trânsito**
+
 ### **Lei de Diretrizes e Bases da Educação**
 
-**Art. 1º** 
+**Art. 1º**
 
 A educação abrange os processos formativos que se desenvolvem na vida familiar, na convivência humana, no trabalho, nas instituições de ensino e pesquisa, nos movimentos sociais e organizações da sociedade civil e nas manifestações culturais.
 
-
-::: progress
+:::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
-:::
-
+::::
 
 ### **OS 4 PILARES DA EDUCAÇÃO**
 
+A educação deve organizar-se em torno de quatro aprendizagens fundamentais que, ao longo de toda a vida, serão de algum modo para cada indivíduo, os pilares do conhecimento (UNESCO, 1996):
 
-A educação deve organizar-se em torno de quatro aprendizagens fundamentais que, ao longo de toda a vida, serão de algum modo para cada indivíduo, os pilares do conhecimento (UNESCO, 1996): 
+-   **Aprender a Conhecer**, isto é adquirir os instrumentos da compreensão;
+-   **Aprender a Fazer**, para poder agir sobre o meio envolvente;
+-   **Aprender a Viver Juntos**, a fim de participar e cooperar com os outros em todas as atividades humanas;
+-   Finalmente **Aprender a Ser**, via essencial que integra as três precedentes.
 
-* **Aprender a Conhecer**, isto é adquirir os instrumentos da compreensão; 
-* **Aprender a Fazer**, para poder agir sobre o meio envolvente; 
-* **Aprender a Viver Juntos**, a fim de participar e cooperar com os outros em todas as atividades humanas; 
-* Finalmente **Aprender a Ser**, via essencial que integra as três precedentes.
-
-
-::: progress
+:::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
-:::
-
+::::
 
 ### **CTB - Art.74**
 
 A educação para o trânsito é direito de todos e constitui dever prioritário para os componentes do Sistema Nacional de Trânsito.
 
-
 **Mas, o que leva uma pessoa a ser mal educada e, por isso, ser infratora no trânsito?**
 
-
-* Desconhecimento das leis e da sinalização de trânsito;
-* Desconhecimento dos perigos presentes nas estradas;
-* Desconhecimento da utilidade dos equipamentos de segurança;
-* Falta de valores positivos
-
+-   Desconhecimento das leis e da sinalização de trânsito;
+-   Desconhecimento dos perigos presentes nas estradas;
+-   Desconhecimento da utilidade dos equipamentos de segurança;
+-   Falta de valores positivos
 
 ### **A Educação Para o Trânsito**
 
-- Tem como foco o ser humano, e trabalha a possibilidade de mudança de valores, comportamentos e atitudes;
-- Pode envolver conhecimentos ambientais, de uso do solo, engenharia de tráfego e prediais de emergência;
-- È considerada eficaz na medida em que a população alvo se conscientiza do seu papel como protagonista no trânsito e modifica comportamentos indevidos.
-- A educação para o trânsito deve enfatizar a responsabilidade da sociedade em busca de segurança e bem-estar.
-- A educação para o trânsito ultrapassa a mera transmissão de informações.
-- A educação para o trânsito não se limita a eventos esporádicos e permite ações coordenadas
+-   Tem como foco o ser humano, e trabalha a possibilidade de mudança de valores, comportamentos e atitudes;
+-   Pode envolver conhecimentos ambientais, de uso do solo, engenharia de tráfego e prediais de emergência;
+-   È considerada eficaz na medida em que a população alvo se conscientiza do seu papel como protagonista no trânsito e modifica comportamentos indevidos.
+-   A educação para o trânsito deve enfatizar a responsabilidade da sociedade em busca de segurança e bem-estar.
+-   A educação para o trânsito ultrapassa a mera transmissão de informações.
+-   A educação para o trânsito não se limita a eventos esporádicos e permite ações coordenadas
 
 Uma Educação para o Trânsito pautada na ética e na cidadania forma pessoas para desenvolver papel transformador, (re)pensar atitudes, perceber situações de (in)segurança.
 
-
-As ações de Educação para o Trânsito têm um fim delimitado:
-* Mudança de comportamento dos usuários da via, para incremento da segurança do trânsito!
-
+As ações de Educação para o Trânsito têm um fim delimitado: \* Mudança de comportamento dos usuários da via, para incremento da segurança do trânsito!
 
 Por isso é de suma importância que o Agente de Trânsito aprimore suas habilidades comunicacionais e seus conteúdos (ou Currículo) constantemente.
 
-
-
-
-::: progress
+:::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
+::::
+
+# **Fatores de Risco no Trânsito**
+
+A segurança no trânsito é uma preocupação mundial e está prevista em diversos documentos internacionais, como o Plano Global da Década de Ação pela Segurança Viária 2021–2030 (ONU/OMS) e as diretrizes da Convenção de Viena sobre Trânsito Viário (1968), das quais o Brasil é signatário. Esses instrumentos reforçam que a redução da mortalidade no trânsito depende do controle dos fatores de risco associados ao comportamento humano, às condições dos veículos e à infraestrutura viária.
+
+De acordo com a Organização Mundial da Saúde (OMS), mais de 90% dos acidentes decorrem de falhas humanas, sendo os principais fatores de risco:
+
+## **Excesso de Velocidade**
+
+|                                          |
+|:----------------------------------------:|
+| ![](excesso_velocidade.jpg){width="725"} |
+
+## **Associação Alcool e Direção**
+
+|                 |
+|:---------------:|
+| ![](alcool.jpg) |
+
+## **Não Uso do Capacete**
+
+|                                    |
+|:----------------------------------:|
+| ![](sem_capacete.jpg){width="717"} |
+
+## **Não Uso do Cinto de Segurança**
+
+|                                 |
+|:-------------------------------:|
+| ![](sem_cinto.jpg){width="937"} |
+
+## **Não Uso de Dispositivos de Segurança para Criança**
+
+|                     |
+|:-------------------:|
+| ![](cadeirinha.jpg) |
+
+## **Uso do Celular ao Volante**
+
+|                                    |
+|:----------------------------------:|
+| ![](uso_celular.jpg){width="1064"} |
+
+
+
+
+:::: progress
+::: {.progress-bar style="width: 100%;"}
 :::
+::::
+
+
+
+
+
+

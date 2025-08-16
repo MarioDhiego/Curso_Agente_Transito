@@ -119,6 +119,46 @@ Inobservância a qualquer preceito da legislação de trânsito, às normas eman
 
 Monitoramento técnico, baseado nos conceitos de engenharia de tráfego, das condições de fluidez, de estacionamento e de parada na via, de forma a reduzir as interferências, tais como veículos quebrados, sinistrados, estacionados irregularmente atrapalhando o trânsito, prestando socorros imediatos e informações aos pedestres e condutores.(Redação dada pela **Lei nº 14.599, de 2023**).
 
+#### **Tipo de Operação: ROTINEIRAS**
+
+visam atender situações cotidianas que fazem parte do dia a dia da cidade. São efetuadas segundo escala semanal e ou mensal
+
+- Veículos Estacionados Irregularmente;
+- Veículos Quebrados;
+- Licenciamento e Veículos;
+- Operação de Semáforos e Acessos;
+
+#### **Tipo de Operação: PROGRAMADAS**
+
+Realizadas para o atendimento de demandas específicas, havendo conhecimento
+prévio de um evento; minimizar os impactos sobre o sistema viário assegurando fluidez, acessibilidade e
+mobilidade na área de influência, além das operações de trânsito em ponto fixo.
+
+
+- Jogos de Futrebol;
+- Feiras, Exposições e Rodeios;
+- Carnaval (bloqueios fixos);
+- Shows (bloqueios fixos);
+- Provas Esportivas (bloqueios móveis);
+- Passeatadas/Carreatas (bloqueios móveis);
+- Datas Comomorativas e Feriados;
+
+#### **Tipo de Operação: EMERGENCIAIS**
+
+Relacionadas a eventos intempestivos que comprometem a fluidez e segurança do trânsito.
+
+- Alagamentos;
+- Acidentes (perícias);
+- Incêndios;
+- Blecautes;
+- Solapamento (deslizamento de terras que cobre a via);
+
+
+#### **Tipo de Operação: CRUZAMENTOS**
+
+Promoção da fluidez do trânsito, com isso o agente fica fixo com ou sem viatura;
+
+
 |         Operação Lei Seca 2022         |
 |:--------------------------------------:|
 | ![](images/OPERAÇÃO1.jpg){width="698"} |
