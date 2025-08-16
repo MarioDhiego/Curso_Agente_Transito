@@ -4,33 +4,36 @@ project:
   output-dir: docs
 
 book:
-  title: "**Curso de Formação Agente de Trânsito**"
-  page-footer:
-    left: |
-      Was Written by (**VALENTE, M.D.R - 2024**).
-    right: |
-      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  title: "**Curso: Agente de Fiscalização de Trânsito**"
   subtitle: "**Disciplina: Papel Educador do Agente**"
+  date: "08/21/2025"
   author:
     name: Mário Diego Rocha Valente
     orcid: 0000-0001-7262-3336
-    corresponding: true
+    corresponding: TRUE
     affiliation:
-        name: DETRAN-PA
+        name: ANALISTA DE TRÂNSITO/DETRAN-PA
         url: mariovalente@detran.pa.gov.br
-  date: "19/02/2024"
+  page-footer:
+    left: |
+      Was Written by (**VALENTE, M.D.R - 2025**).
+    right: |
+      DETRAN-PA.
+  cover-image: CAPA.png
+  favicon: CAPA.png
   repo-url: https://github.com/MarioDhiego
   repo-subdir: book
   repo-branch: main           # master
   repo-actions: [edit, issue, source]
   sharing: [twitter, linkedin]
   downloads: [pdf, docx]
-  page-navigation: true
-  reader-mode: true
+  page-navigation: TRUE
+  reader-mode: TRUE
   sidebar:
-        search: true
+        search: TRUE
   chapters:
     - index.qmd
+    - baselegal.qmd
     - Introducao.qmd
     - Capitulo2.qmd
     - Capitulo3.qmd
@@ -38,19 +41,13 @@ book:
 bibliography: references.bib
 format:
   html:
-    toc-title: Índice
+    toc-title: SUMÁRIO
     toc-location: right
-    number-sections: true
+    number-sections: TRUE
     theme:
       light: cosmo
       dark:  superhero
-    code-fold: true
-    code-tools: true
-    code-link: true
-abstract: |
-  Dispõe sobre o Curso de Agente de Trânsito para profissionais que executem as atividades de fiscalização, operação, policiamento ostensivo de trânsito ou patrulhamento nos órgãos integrantes do Sistema Nacional de Trânsito (SNT).
-keywords: |
-  - Portaria nº966
-  - SENATRAN
-  - Curso de Agente
+    code-fold: TRUE
+    code-tools: TRUE
+    code-link: TRUE
 

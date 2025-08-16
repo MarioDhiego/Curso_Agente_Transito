@@ -1,5 +1,3 @@
-
-
 ```{=html}
 <style>
 body{text-align: justify}
@@ -7,141 +5,20 @@ body{text-align: justify}
 ```
 
 
-::: progress
+
+:::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
-:::
+::::
 
+# **Objetivos da Disciplina**
 
-# **Portaria Nº 966/2022**
+-   Compreender a função educativa do Agente de Fiscalização de Trânsito;
+-   Integrar a Fiscalização ao Caráter Pedagógico;
+-   Reconhecer Situações práticas de orientação ao Cidadão;
+-   Promover mudança de comportamento para um Trânsito + Seguro.
 
-O SECRETÁRIO NACIONAL DE TRÂNSITO, no uso das atribuições que lhe conferem os incisos V e XXIII do art. 19 da Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro (CTB), e com base no que consta nos autos dos processos administrativos nº 80000.030646/2013-83, resolve:
-
-**Art. 1º** Esta Portaria dispõe sobre o Curso de Agente de Trânsito para profissionais que executem as atividades de fiscalização, operação, policiamento ostensivo de trânsito ou patrulhamento nos órgãos integrantes do Sistema Nacional de Trânsito (SNT).
-
-**Art. 2º** A estrutura curricular mínima, requisitos para matrícula, carga horária mínima, abordagem didático-pedagógica, frequência, avaliação e disposições finais constam do Anexo I desta Portaria.
-
-**Art. 3º** O Curso de Agente de Trânsito será ministrado por órgãos integrantes do SNT ou por entidades e instituições por eles habilitadas. Art. 4º O profissional que exerce a atividade de agente de trânsito deverá realizar curso deatualização a cada três anos, conforme estrutura curricular disposta no Anexo II desta Portaria.
-
-**Art. 5º** Ficam revogadas as Portarias DENATRAN:
-
--   I - nº 94, de 31 de maio de 2017;
--   II - nº 150, de 29 de janeiro de 2021.
-
-**Art. 6º** Esta Portaria entra em vigor em 1º de agosto de 2022.
-
-::: progress
+:::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
-:::
-
-## **Anexo I**
-### **Curso De Formação**
-
-Carga horária mínima, requisitos para matrícula, estrutura curricular mínima, abordagem didático-pedagógica, frequência, avaliação e disposições finais do curso.
-
-1.  **Carga horária mínima**: a carga horária mínima do curso é de 200 (duzentas) horas/aula, divididas em:
-
--   40 (quarenta) horas/aula destinadas ao Módulo I (Legislação de Trânsito);
--   20 (vinte) horas/aula ao Módulo II (Noções de Engenharia de Tráfego e Sinalização de Trânsito);
--   48 (quarenta e oito) horas/aula ao Módulo III (Legislação de Trânsito Aplicada);
--   08 (oito) horas/aula ao Modulo IV (Ética e Cidadania);
--   12 (doze) horas/aula ao Modulo V (Psicologia Aplicada);
--   08 (oito) horas/aula ao Modulo VI (O Papel Educador do Agente);
--   08 (oito) horas/aula ao Modulo VII (Língua Portuguesa);
--   16 (dezesseis) horas/aula ao Modulo VIII (Operação e Fiscalização de Trânsito); e
--   40 (quarenta) horas/aula ao Modulo IX (Prática Operacional).
-
-2.  **Requisitos para matrícula no curso de formação**
-
--   Ser servidor público (celetista ou estatutário) ou policial militar, indicado pelo órgão com jurisdição sobre a via, no âmbito de sua competência.
-
-3.  **Estrutura curricular e carga horária mínima**
-
-| MÓDULOS                                                              | CARGA/HORÁRIA |
-|:--------------------------------------------------|:-------------------:|
-| Módulo I: Legislação de Trânsito                                     |    40 h/a     |
-| Módulo II: Noções de Engenharia de Tráfego e Sinalização de Trânsito |    20 h/a     |
-| Módulo III: Legislação de Trânsito Aplicada                          |    48 h/a     |
-| Módulo IV: Ética e Cidadania                                         |    08 h/a     |
-| Módulo V: Psicologia Aplicada                                        |    12 h/a     |
-| Módulo VI: O Papel Educador do Agente                                |    08 h/a     |
-| Módulo VII: Língua Portuguesa                                        |    08 h/a     |
-| Módulo VIII: Operação e Fiscalização de Trânsito                     |    16 h/a     |
-| Módulo IX: Prática Operacional                                       |    40 h/a     |
-| Total                                                                |    200 h/a    |
-
-4.  **Abordagem Didático-pedagógica**
-
-A abordagem didático-pedagógica do curso de agente da autoridade de trânsito consiste na apresentação de aulas teóricas e práticas ministradas de forma dinâmica, expositiva e dialógica. Para as atividades práticas podem ser utilizadas imagens, vídeos, estudos de caso e visitas técnicas, atividades de fiscalização, operação, policiamento ostensivo de trânsito ou patrulhamento.
-
-5.  **Avaliação da Aprendizagem**
-
--   Ao final de cada módulo será realizada prova sobre conteúdos trabalhados pelas instituições que ministram os cursos.
-
--   Será considerado aprovado no curso de capacitação o aluno que obtiver aproveitamento mínimo de 70 % em cada módulo.
-
--   O aluno reprovado ao final do módulo poderá realizar nova prova a qualquer momento, sem prejuízo da continuidade do curso. Caso ainda não consiga resultado satisfatório deverá repetir o módulo em outra edição do curso.
-
--   Com frequência mínima de 75% em cada um dos módulos. Caso o aluno não atinja o mínimo de frequência estabelecido em um ou mais módulo (s), poderá repeti-lo (s) em outra turma ou edição do curso, aproveitando os módulos em que atingiu o estabelecido.
-
--   Nos cursos de atualização, a avaliação será feita através de observação direta e constante do desempenho dos alunos, sendo dispensado atribuição de nota ao final do curso.
-
-6.  **Disposições Finais**
-
--   Para os cursos ministrados por servidores de órgãos integrantes do SNT, o corpo docente do curso deverá ser formado por, no mínimo, 50% (cinquenta por cento) de profissionais que tenham formação superior e experiência na área afim aos conteúdos constantes na estrutura curricular do curso. Para os profissionais de nível médio, será exigido, no mínimo, 10 (dez) anos de experiência comprovada na área afim aos conteúdos constantes na estrutura curricular do curso.
-
--   A comprovação da referida titulação deverá ser apresentada junto aos órgãos integrantes do SNT e às entidades e instituições habilitadas para ministrar o curso objeto desta Portaria.
-
--   O número máximo de participantes por turma deverá ser de 50 (cinquenta) alunos
-
--   Os certificados serão emitidos pelos órgãos integrantes do SNT ou por entidades e instituições por eles habilitadas para ministrar o curso objeto desta Portaria.
-
--   Os módulos I, II, III, IV, V, VI e VII, descritos no item 3 do Anexo I desta Portaria, poderão ser realizados nas modalidades de ensino à distância e remoto.
-
--   A Os módulos VIII e IX poderão ser realizados na modalidade de ensino remoto.
-
--   O conteúdo presente na estrutura curricular e a carga horária poderão ser acrescidos com o objetivo de atender as necessidades específicas do órgão com circunscrição sobre a via
-
-::: progress
-::: {.progress-bar style="width: 100%;"}
-:::
-:::
-
-## **Anexo II**
-### **Curso De Atualização**
-
-O Curso de Atualização terá carga horária mínima de 32 (trinta e duas) horas/aula, conforme estrutura curricular a seguir.
-
-O Curso de Atualização poderá ser realizado nas modalidades de ensino presencial, à distância e remoto.
-
-| MÓDULOS                                          | CARGA/HORÁRIA |
-|:-------------------------------------------------|:-------------:|
-| Módulo I: Legislação de Trânsito Aplicada        |    12 h/a     |
-| Módulo II: Ética e Cidadania                     |    04 h/a     |
-| Módulo VIII: Operação e Fiscalização de Trânsito |    16 h/a     |
-| Total                                            |    32 h/a     |
-
-::: progress
-::: {.progress-bar style="width: 100%;"}
-:::
-:::
-
-
-
-## **License** {.unnumbered}
-
-
-This book is licensed to you under the
-[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
-
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
-
-
-
-
-::: progress
-::: {.progress-bar style="width: 100%;"}
-:::
-:::
+::::
