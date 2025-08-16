@@ -12,7 +12,7 @@ book:
     orcid: 0000-0001-7262-3336
     corresponding: TRUE
     affiliation:
-        name: ANALISTA DE TRÂNSITO/DETRAN-PA
+        name: Analista de Trânsito/DETRAN-PA
         url: mariovalente@detran.pa.gov.br
   page-footer:
     left: |
@@ -37,6 +37,7 @@ book:
     - Introducao.qmd
     - Capitulo2.qmd
     - Capitulo3.qmd
+    - Capitulo4.qmd
     - Referencias.qmd
 bibliography: references.bib
 format:

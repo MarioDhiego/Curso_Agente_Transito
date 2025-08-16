@@ -15,8 +15,10 @@ body{text-align: justify}
 
 -   Compreender a função educativa do Agente de Fiscalização de Trânsito;
 -   Integrar a Fiscalização ao Caráter Pedagógico;
--   Reconhecer Situações práticas de orientação ao Cidadão;
--   Promover mudança de comportamento para um Trânsito + Seguro.
+-   Reconhecer Situações Práticas de orientação ao Cidadão;
+-   Analisar e Mediar Conflitos no Trânsito;
+-   Agir como Exemplo;
+-   Promover Mudança de Comportamento para um Trânsito + Seguro;
 
 :::: progress
 ::: {.progress-bar style="width: 100%;"}

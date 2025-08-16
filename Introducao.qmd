@@ -1,19 +1,25 @@
-
-
 ```{=html}
 <style>
 body{text-align: justify}
 </style>
 ```
 
-
-::: progress
+:::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
-:::
+::::
 
 # **Conceitos e Definições**
+
 ## **Trânsito**
+
+### **CTB - Art 1º**
+
+Considera-se trânsito a utilização das vias por pessoas, veículos e animais, isolados ou em grupos, conduzidos ou não, para ﬁns de circulação, parada, estacionamento e operação de carga ou descarga.
+
+|                                 |
+|:-------------------------------:|
+| ![](transito1.jpg){width="755"} |
 
 ### **CTB - Art 2º**
 
@@ -24,10 +30,10 @@ Transitar pelas vias terrestres é um direito de todo cidadão;
 -   O Estado tem o dever de promover que tal direito seja livre e seguro, através dos órgãos competentes;
 -   Tendo como prioridade, "a defesa da vida, nela incluída a preservação da saúde e do meio ambiente". (Art. 1º, §5º do CTB).
 
-::: progress
+:::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
-:::
+::::
 
 ### **CF 1998 - Art. 144, parágrafo 10º**
 
@@ -37,10 +43,10 @@ Transitar pelas vias terrestres é um direito de todo cidadão;
 
 **II** − compete, no âmbito dos Estados, do Distrito Federal e dos Municípios, aos respectivos órgãos ou entidades executivos e seus agentes de trânsito, estruturados em Carreira, na forma da lei. (BRASIL, 2020, site).
 
-::: progress
+:::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
-:::
+::::
 
 ## **Fiscalização**
 
@@ -54,14 +60,14 @@ Transitar pelas vias terrestres é um direito de todo cidadão;
     -   Fiscalização desse cumprimento pelo poder fiscalizador do Estado;
     -   Aplicação por parte do Poder Judiciário quando da ocorrência de crimes de trânsito.
 
-## **Definição de Fiscalização**
+### **Definição de Fiscalização**
 
 Ato de controlar o cumprimento das normas estabelecidas na legislação de trânsito, por meio do poder de polícia administrativa de trânsito, no âmbito de circunscrição dos órgãos e entidades executivos de trânsito e de acordo com as competências definidas neste código. (**Anexo I do CTB**)
 
-::: progress
+:::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
-:::
+::::
 
 ## **O Que é o Poder de Polícia**
 
@@ -71,15 +77,20 @@ Considera-se poder de polícia atividade da administração pública que, limita
 
 Parágrafo único. Considera-se regular o exercício do poder de polícia quando desempenhado pelo órgão competente nos limites da lei aplicável, com observância do processo legal e, tratando-se de atividade que a lei tenha como discricionária, sem abuso ou desvio de poder.
 
-::: progress
+:::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
-:::
+::::
 
 ## **Conceitos Fundamentais CTB - Anexo I**
+
 ### **Autoridade de Trânsito**
 
-Dirigente máximo de órgão ou entidade executivo integrante do Sistema Nacional de Trânsito ou pessoa por ele expressamente credenciada (**Diretor geral do DETRAN-PA**).
+Dirigente máximo de órgão ou entidade executivo integrante do Sistema Nacional de Trânsito ou pessoa por ele expressamente credenciada.
+
+|        Diretora Geral do DETRAN-PA        |
+|:-----------------------------------------:|
+| ![](autoridade_transito.jpg){width="166"} |
 
 ### **Agente de Trânsito**
 
@@ -87,11 +98,11 @@ Servidor civil efetivo de carreira do órgão ou entidade executivos de trânsit
 
 ### **Agente da Autoridade de Trânsito**
 
-**Agente de Trânsito** e **Policial Rodoviário Federal** que atuam na fiscalização, no controle e na operação de trânsito e no patrulhamento, competentes para a lavratura do auto de infração e para os procedimentos dele decorrentes, incluídos o **Policial Militar** ou os agentes referidos no art. 25-A deste Código, quando designados pela autoridade de trânsito com circunscrição sobre a via, mediante convênio, na forma prevista neste Código.(Redação dada pela **Lei nº 14.229, de 2021**)
+**Agente de Trânsito** e **Policial Rodoviário Federal** que atuam na fiscalização, no controle e na operação de trânsito e no patrulhamento, competentes para a lavratura do auto de infração e para os procedimentos dele decorrentes, incluídos o **Policial Militar** ou os agentes referidos no art. 25-A (**Policial Legislativo Federal**) deste Código, quando designados pela autoridade de trânsito com circunscrição sobre a via, mediante convênio, na forma prevista neste Código.(Redação dada pela **Lei nº 14.229, de 2021**)
 
 Condições para Exercer a Função de Agente:
 
--   Credenciado;\
+-   Credenciado;
 -   Uniformizado;
 -   No exercício das funções;
 -   Em Veículo caracterizado.
@@ -100,13 +111,21 @@ Condições para Exercer a Função de Agente:
 
 Inobservância a qualquer preceito da legislação de trânsito, às normas emanadas do Código de Trânsito, do Conselho Nacional de Trânsito e a regulamentação estabelecida pelo órgão ou entidade executiva do trânsito.
 
+|  Talonário (Login)  |  Talonário (Menu)   |   Talonário (AIT)   |
+|:-------------------:|:-------------------:|:-------------------:|
+| ![](talonario1.jpg) | ![](talonario2.jpg) | ![](talonario3.jpg) |
+
 ### **Operação de Trânsito**
 
-Monitoramento técnico, baseado nos conceitos de engenharia de tráfego, das condições de fluidez, de estacionamento e de parada na via, de forma a reduzir as interferências, tais como veículos quebrados, sinistrados, estacionados irregularmente atrapalhando o trânsito, prestando socorros imediatos e informações aos pedestres e condutores.(Redação dada pela **Lei nº 14.599, de 2023**)
+Monitoramento técnico, baseado nos conceitos de engenharia de tráfego, das condições de fluidez, de estacionamento e de parada na via, de forma a reduzir as interferências, tais como veículos quebrados, sinistrados, estacionados irregularmente atrapalhando o trânsito, prestando socorros imediatos e informações aos pedestres e condutores.(Redação dada pela **Lei nº 14.599, de 2023**).
 
-|                                                          |                                                  |                                                  |
-|:--------------------------------------------------------:|:------------------------------------------------:|:------------------------------------------------:|
-| ![](images/PROJETO_ONU1%20-%20Copia-01.jpg){width="600"} | ![](images/OPERA%C3%87%C3%83O1.jpg){width="600"} | ![](images/OPERA%C3%87%C3%83O2.jpg){width="600"} |
+|         Operação Lei Seca 2022         |
+|:--------------------------------------:|
+| ![](images/OPERAÇÃO1.jpg){width="698"} |
+
+|                Operação Lei Seca 2023                 |
+|:-----------------------------------------------------:|
+| ![](images/PROJETO_ONU1%20-%20Copia.jpg){width="696"} |
 
 ### **Operação de Carga e Descarga**
 
@@ -130,16 +149,12 @@ Movimentação de pessoas, animais e veículos em deslocamento, conduzidos ou n�
 
 ### **ETILÔMETRO**
 
-Aparelho destinado à medição do teor alcoólico no ar alveolar. (Incluído pela Lei nº 12.760, de 2012)
+Aparelho destinado à medição do teor alcoólico no ar alveolar. (Incluído pela Lei nº 12.760, de 2012).
 
-|                                         |                                          |                                              |
-|:---------------------------------------:|:----------------------------------------:|----------------------------------------------|
-| ![](images/ETILOMETRO.jpg){width="599"} | ![](images/ETILOMETRO1.jpg){width="292"} | ![](images/MALA_ETILOMETRO.jpg){width="600"} |
+|      Aparelho de Etilômetro       |
+|:---------------------------------:|
+| ![](etilometro2.jpg){width="754"} |
 
-
-
-
-::: progress
-::: {.progress-bar style="width: 100%;"}
-:::
-:::
+|          Kit Completo de Etilômetro          |
+|:--------------------------------------------:|
+| ![](images/MALA_ETILOMETRO.jpg){width="714"} |
